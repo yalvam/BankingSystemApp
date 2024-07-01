@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yashashwini\\source\\repos\\BankingSystemApp\\BankingSystemApp.csproj": {}
+    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\BankingSystemApp\\BankingSystemApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yashashwini\\source\\repos\\BankingSystemApp\\BankingSystemApp.csproj": {
+    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\BankingSystemApp\\BankingSystemApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yashashwini\\source\\repos\\BankingSystemApp\\BankingSystemApp.csproj",
+        "projectUniqueName": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\BankingSystemApp\\BankingSystemApp.csproj",
         "projectName": "BankingSystemApp",
-        "projectPath": "C:\\Users\\Yashashwini\\source\\repos\\BankingSystemApp\\BankingSystemApp.csproj",
+        "projectPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\BankingSystemApp\\BankingSystemApp.csproj",
         "packagesPath": "C:\\Users\\Yashashwini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yashashwini\\source\\repos\\BankingSystemApp\\obj\\",
+        "outputPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\BankingSystemApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
